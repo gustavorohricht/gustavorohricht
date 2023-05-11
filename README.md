@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Gustavo. I study Mechatronics Engineering at UFSC. 
+I can code better in the C language, although definitely not fluent. 
+Also I had a bit of experience coding in C++ and python. 
+
 <!--
 **gustavorohricht/gustavorohricht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
